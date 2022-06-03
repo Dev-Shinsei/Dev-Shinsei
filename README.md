@@ -17,6 +17,7 @@ Acredito que com foco e disciplina posso conquistar grandes realizações por me
   - **Design:** Figma, Adobe XD e Photoshop.
   - **DB:** SQL: MySQL, SQLite, PostgreSQL.
 - 🎓 **Acadêmico:** - Formado **Análise e Desenvolvimento de Sistemas**;
+- 📧 **Contato:** - dev.shinsei@gmail.com
 <div>
   <a href="https://github.com/Dev-Shinsei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Shinsei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
