@@ -1,6 +1,6 @@
 <h3> Oi! 😄 </h3>
 Me chamo Carlos Gomes, mas pode me chamar de Shinsei 😄<br>
-Tenho 26 anos e minha jornada começou com uma paixão por Desenvolvimento de Jogos, e hoje em dia reside no Desenvolvimento Web, e é nessa área que mantenho meu foco atual de estudos. Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando o programa Explorer da RocketSeat com foco em Desenvolvimento FullStack para Web.
+Tenho 26 anos e estou em busca de uma oportunidade na área de Desenvolvimento Web. Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando o programa Explorer da RocketSeat com foco em Desenvolvimento FullStack para Web.
 
 ##
 
@@ -8,7 +8,7 @@ Futuramente, quero focar meus estudos em Desenvolvimento de Jogos, então... Log
 
 Acredito que com foco e disciplina posso conquistar grandes realizações por meio da tecnologia.
 
-- 💼 **Auxiliar Financeiro** na **WJK** em busca de uma oportunidade no mercado de desenvolvimento.
+- 💼 **Frontend Freelancer* at **MG Solutions**.
 - 💻 **Linguagens:**
   - **HTML** e **CSS**;
   - **JavaScript** (React, NodeJs, TypeScript, ExpressJS);
