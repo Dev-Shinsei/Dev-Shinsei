@@ -1,23 +1,21 @@
-<h3> Oi! 😄 </h3>
-Me chamo Carlos Gomes, mas pode me chamar de Shinsei 😄<br>
-Tenho 26 anos e estou em busca de uma oportunidade na área de Desenvolvimento Web. Sou formado em Análise e Desenvolvimento de Sistemas, e atualmente estou cursando o programa Explorer da RocketSeat com foco em Desenvolvimento FullStack para Web.
+<h3> Hi! 😄 </h3>
+I am Carlos gomes, but you can call me Shinsei 😄 <br>
+I am 26 years old and looking for an opportunity to start in the Web Developement field. I graduated in Analysis and systems development, and currently doing the Explorer Program from RocketSeat.
 
 ##
 
-Futuramente, quero focar meus estudos em Desenvolvimento de Jogos, então... Logo mais vocês me verão apanhar pra C# e Unity e/ou Unreal por aqui.
-
-Acredito que com foco e disciplina posso conquistar grandes realizações por meio da tecnologia.
+I believe that, with some effort and discipline, we can do great things through technology.
 
 - 💼 **Frontend Freelancer* at **MG Solutions**.
-- 💻 **Linguagens:**
-  - **HTML** e **CSS**;
+- 💻 **Tech:**
+  - **HTML** and **CSS**;
   - **JavaScript** (React, NodeJs, TypeScript, ExpressJS);
-- 🛠️ **Ferramentas:**
+- 🛠️ **Tools:**
   - **Dev:** Visual Studio Code, Git/GitHub;
   - **Design:** Figma, Adobe XD e Photoshop.
   - **DB:** SQL: MySQL, SQLite, PostgreSQL.
-- 🎓 **Acadêmico:** - Formado **Análise e Desenvolvimento de Sistemas**;
-- 📧 **Contato:** - dev.shinsei@gmail.com
+- 🎓 **Academic:** - **Análise e Desenvolvimento de Sistemas**;
+- 📧 **Contact:** - dev.shinsei@gmail.com
 <div>
   <a href="https://github.com/Dev-Shinsei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dev-Shinsei&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
