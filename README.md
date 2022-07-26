@@ -14,7 +14,7 @@ I believe that, with some effort and discipline, we can do great things through 
   - **Dev:** Visual Studio Code, Git/GitHub;
   - **Design:** Figma, Adobe XD e Photoshop.
   - **DB:** SQL: MySQL, SQLite, PostgreSQL.
-- 🎓 **Academic:** - **Análise e Desenvolvimento de Sistemas**;
+- 🎓 **Academic:** - **Analysis and systems development**;
 - 📧 **Contact:** - dev.shinsei@gmail.com
 <div>
   <a href="https://github.com/Dev-Shinsei">
